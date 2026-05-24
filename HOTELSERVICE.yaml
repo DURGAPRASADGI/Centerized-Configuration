@@ -15,7 +15,5 @@
         # Specifies the PostgreSQL dialect for optimized SQL generation
         dialect: org.hibernate.dialect.PostgreSQLDialect
         format_sql: true
-
-
 server:
   port: 8081
