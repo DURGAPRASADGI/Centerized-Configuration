@@ -15,10 +15,7 @@
         # Specifies the PostgreSQL dialect for optimized SQL generation
         dialect: org.hibernate.dialect.PostgreSQLDialect
         format_sql: true
-eureka:
-  client:
-    serviceUrl:
-      defaultZone: http://localhost:8761/eureka/
+
 
 server:
   port: 8082
